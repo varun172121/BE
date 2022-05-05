@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.50aa49d9.css",
+    "main.js": "/static/js/main.a028bc2e.js",
+    "static/media/varun.png": "/static/media/varun.1c2e937a0f628c94af11.png",
+    "static/media/rushil.png": "/static/media/rushil.53cfdaa8e8a57d286985.png",
+    "static/media/tirth.png": "/static/media/tirth.db65554e9869baa4d92e.png",
+    "static/media/coming_soon.svg": "/static/media/coming_soon.4c1bbfbdec0fcee28b8dd08214fab9fb.svg",
+    "static/media/permission_denied.svg": "/static/media/permission_denied.0038a9cfef7a8abe2cc55958119fb7be.svg",
+    "static/media/supervisor.svg": "/static/media/supervisor.33a93099d4fe6f942276d1b632a5fa57.svg",
+    "static/media/mobile_denied.svg": "/static/media/mobile_denied.2866a8eb8fa8c0c13ecd49355593360e.svg",
+    "static/media/not_found.svg": "/static/media/not_found.192f58d2a79f6cd0ed860e3e0e187bf2.svg",
+    "static/media/no_data.svg": "/static/media/no_data.acc9706a4355eee55e49b5c0f9865c9a.svg",
+    "index.html": "/index.html",
+    "main.50aa49d9.css.map": "/static/css/main.50aa49d9.css.map",
+    "main.a028bc2e.js.map": "/static/js/main.a028bc2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50aa49d9.css",
+    "static/js/main.a028bc2e.js"
+  ]
+}
